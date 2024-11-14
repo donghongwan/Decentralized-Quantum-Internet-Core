@@ -1,0 +1,10 @@
+database:
+  uri: "sqlite:///nexussecureiot.db"
+  echo: true
+
+blockchain:
+  provider_url: "https://your-blockchain-node-url"
+  contract_address: "0xYourContractAddress"
+
+security:
+  encryption_key: "your_secret_key"
