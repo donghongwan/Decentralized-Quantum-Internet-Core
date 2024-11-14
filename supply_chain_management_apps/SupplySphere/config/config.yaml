@@ -1,0 +1,5 @@
+database:
+  uri: sqlite:///supply_sphere.db
+secret_key: your_secret_key
+iot_device_api: http://iot-device-api.local
+blockchain_api: http://blockchain-api.local
