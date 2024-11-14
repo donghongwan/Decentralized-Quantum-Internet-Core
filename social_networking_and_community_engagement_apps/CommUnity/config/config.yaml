@@ -1,0 +1,3 @@
+database:
+  uri: sqlite:///community.db
+secret_key: your_secret_key
