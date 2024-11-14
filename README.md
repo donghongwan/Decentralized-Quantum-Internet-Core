@@ -3,7 +3,6 @@
 [![Certified Asian Development Bank (ADB)](https://img.shields.io/badge/Certified%20ADB-Asian%20Development%20Bank-0072B8?style=for-the-badge&logo=adb&logoColor=white)](https://www.adb.org/)
 [![Certified European Bank for Reconstruction and Development (EBRD)](https://img.shields.io/badge/Certified%20EBRD-European%20Bank%20for%20Reconstruction%20and%20Development-0072B8?style=for-the-badge&logo=ebrd&logoColor=white)](https://www.ebrd.com/)
 [![Certified African Development Bank (AfDB)](https://img.shields.io/badge/Certified%20AfDB-African%20Development%20Bank-0072B8?style=for-the-badge&logo=afdb&logoColor=white)](https://www.afdb.org/)
-[![Certified Inter-American Development Bank (IDB)](https://img.shields.io/badge/Certified%20IDB-Inter-American%20Development%20Bank-0072B8?style=for-the-badge&logo=idb&logoColor=white)](https://www.iadb.org/)
 [![Certified International Finance Corporation (IFC)](https://img.shields.io/badge/Certified%20IFC-International%20Finance%20Corporation-0072B8?style=for-the-badge&logo=ifc&logoColor=white)](https://www.ifc.org/)
 [![Certified Bank for International Settlements (BIS)](https://img.shields.io/badge/Certified%20BIS-Bank%20for%20International%20Settlements-0072B8?style=for-the-badge&logo=bis&logoColor=white)](https://www.bis.org/)
 [![Certified Organisation for Economic Co-operation and Development (OECD)](https://img.shields.io/badge/Certified%20OECD-Organisation%20for%20Economic%20Co--operation%20and%20Development-0072B8?style=for-the-badge&logo=oecd&logoColor=white)](https://www.oecd.org/)
