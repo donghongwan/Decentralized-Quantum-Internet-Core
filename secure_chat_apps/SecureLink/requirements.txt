@@ -1,0 +1,6 @@
+flask
+pandas
+numpy
+cryptography
+opencv-python
+pyyaml
