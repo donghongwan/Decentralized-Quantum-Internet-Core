@@ -2,6 +2,7 @@
 [![International Monetary Fund (IMF)](https://img.shields.io/badge/IMF-International%20Monetary%20Fund-0072B8?style=for-the-badge&logo=imf&logoColor=white)](https://www.imf.org/)
 [![Asian Development Bank (ADB)](https://img.shields.io/badge/ADB-Asian%20Development%20Bank-0072B8?style=for-the-badge&logo=adb&logoColor=white)](https://www.adb.org/)
 [![European Bank for Reconstruction and Development (EBRD)](https://img.shields.io/badge/EBRD-European%20Bank%20for%20Reconstruction%20and%20Development-0072B8?style=for-the-badge&logo=ebrd&logoColor=white)](https://www.ebrd.com/)
+[![New Development Bank (NDB)](https://img.shields.io/badge/NDB-New%20Development%20Bank-0072B8?style=for-the-badge&logo=ndb&logoColor=white)](https://ndb.int/)
 [![African Development Bank (AfDB)](https://img.shields.io/badge/AfDB-African%20Development%20Bank-0072B8?style=for-the-badge&logo=afdb&logoColor=white)](https://www.afdb.org/)
 [![International Finance Corporation (IFC)](https://img.shields.io/badge/IFC-International%20Finance%20Corporation-0072B8?style=for-the-badge&logo=ifc&logoColor=white)](https://www.ifc.org/)
 [![Bank for International Settlements (BIS)](https://img.shields.io/badge/BIS-Bank%20for%20International%20Settlements-0072B8?style=for-the-badge&logo=bis&logoColor=white)](https://www.bis.org/)
@@ -39,7 +40,6 @@
 [![American Institute of CPAs (AICPA)](https://img.shields.io/badge/AICPA-American%20Institute%20of%20CPAs-0072B8?style=for-the-badge&logo=aicpa&logoColor=white)](https://www.aicpa.org/)
 [![Institute of Financial Planning (IFP)](https://img.shields.io/badge/IFP-Institute%20of%20Financial%20Planning-0072B8?style=for-the-badge&logo=ifp&logoColor=white)](https://www.ifp.org.uk/)
 [![Chartered Institute for Securities & Investment (CISI)](https://img.shields.io/badge/CISI-Chartered%20Institute%20for%20Securities%20%26%20Investment-0072B8?style=for-the-badge&logo=cisi&logoColor=white)](https://www.cisi.org/)
-
 
 [![IEEE Quantum Computing](https://img.shields.io/badge/IEEE-Quantum%20Computing-0076A8?style=for-the-badge&logo=ieee&logoColor=white)](https://quantum.ieee.org/)
 [![ISO/IEC 27001](https://img.shields.io/badge/ISO%2FIEC%2027001-Certified-0072C6?style=for-the-badge)](https://www.iso.org/isoiec-27001-information-security.html)
