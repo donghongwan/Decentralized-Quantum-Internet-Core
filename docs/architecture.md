@@ -10,7 +10,7 @@ This document provides an overview of the architecture of the Decentralized Quan
 - **Networking Layer**: Facilitates communication between nodes in a decentralized manner.
 
 ## Diagram
-![Architecture Diagram](DQI.jpeg)
+![Architecture Diagram](Decentralized-Quantum-Internet.jpeg)
 
 ## Conclusion
 The architecture is designed to be modular, scalable, and secure, ensuring robust performance in various applications.
