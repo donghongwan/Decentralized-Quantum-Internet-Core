@@ -1,0 +1,8 @@
+flask
+flask_sqlalchemy
+flask_migrate
+cryptography
+pyyaml
+requests
+numpy
+pandas
