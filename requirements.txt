@@ -1,0 +1,6 @@
+# List your project dependencies here
+flask
+requests
+numpy
+cryptography
+pytest
