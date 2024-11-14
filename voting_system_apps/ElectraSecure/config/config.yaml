@@ -1,0 +1,7 @@
+database:
+  uri: "sqlite:///electrasecure.db"
+  echo: true
+
+security:
+  encryption_key: "your_secret_key"
+  mfa_enabled: true
