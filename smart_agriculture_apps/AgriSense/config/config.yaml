@@ -1,0 +1,4 @@
+database:
+  uri: sqlite:///agrisense.db
+secret_key: your_secret_key
+iot_device_api: http://iot-device-api.local
