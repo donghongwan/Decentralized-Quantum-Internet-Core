@@ -1,0 +1,3 @@
+database:
+  uri: sqlite:///smartiq.db
+secret_key: your_secret_key
