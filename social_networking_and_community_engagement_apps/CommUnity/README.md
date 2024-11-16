@@ -17,7 +17,7 @@ CommUnity is a social networking and community engagement platform designed to f
 1. Clone the repository:
    ```bash
    1 git clone https://github.com/KOSASIH/Decentralized-Quantum-Internet-Core.git
-   2 cd CommUnity
+   2 cd Decentralized-Quantum-Internet-Core
    ```
 
 2. Install dependencies:
