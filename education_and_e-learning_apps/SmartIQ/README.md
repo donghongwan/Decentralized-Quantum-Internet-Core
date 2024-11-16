@@ -15,7 +15,7 @@ SmartIQ is an advanced e-learning platform that leverages artificial intelligenc
 1. Clone the repository:
    ```bash
    1 git clone https://github.com/KOSASIH/Decentralized-Quantum-Internet-Core.git
-   2 cd SmartIQ
+   2 cd Decentralized-Quantum-Internet-Core
    ```
 
 2. Create a virtual environment:
