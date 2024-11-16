@@ -15,7 +15,7 @@ SupplySphere is a holistic supply chain management solution that connects suppli
 1. Clone the repository:
    ```bash
    1 git clone https://github.com/KOSASIH/Decentralized-Quantum-Internet-Core.git
-   2 cd SupplySphere
+   2 cd Decentralized-Quantum-Internet-Core
    ```
 
 2. Install dependencies:
