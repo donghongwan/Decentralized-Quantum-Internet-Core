@@ -15,7 +15,7 @@ AgriSense is an advanced smart agriculture application designed to help farmers 
 1. Clone the repository:
    ```bash
    1 git clone https://github.com/KOSASIH/Decentralized-Quantum-Internet-Core.git
-   2 cd AgriSense
+   2 cd Decentralized-Quantum-Internet-Core
    ```
 
 2. Create a virtual environment:
