@@ -17,7 +17,7 @@ ARtistry is an advanced augmented reality application that enhances user experie
 1. Clone the repository:
    ```bash
    1 git clone https://github.com/KOSASIH/Decentralized-Quantum-Internet-Core.git
-   2 cd ARtistry
+   2 cd Decentralized-Quantum-Internet-Core
    ```
 
 
