@@ -20,7 +20,7 @@ CrisisConnect is an advanced disaster management and emergency response applicat
 1. Clone the repository:
    ```bash
    1 git clone https://github.com/KOSASIH/Decentralized-Quantum-Internet-Core.git
-   2 cd CrisisConnect
+   2 cd Decentralized-Quantum-Internet-Core
    ```
 
 2. Create a virtual environment:
